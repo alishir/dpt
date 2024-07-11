@@ -1,0 +1,2 @@
+-define(Demo, 0).
+
